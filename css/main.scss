@@ -52,14 +52,15 @@ sitemap: false
    ========================================================================== */
 
 @import "layout";
+@import url(http://fonts.googleapis.com/css?family=Arvo);
 
 .bio {
 	height: 500px;
 	width: 500px;
 	position: relative;
-	left: 600px;
+	left: 650px;
 	top: 120px;
-
+	font-family: 'Arvo', serif;
 }
 
 .profile {
@@ -70,6 +71,4 @@ sitemap: false
 	left: 80px;
 }
 
-.signature {
-	font-family: Verdana Geneva sans-serif;
-}
+
