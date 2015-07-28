@@ -9,7 +9,7 @@ title: "My Recent Projects"
 		<img src="images/project1.jpg" style="width:300 px;height:150px;">
 	</a>
 </div>
-<
+
 
 <div class='project2'>
 	<a href= "jashansudan.github.io">
