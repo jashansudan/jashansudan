@@ -58,19 +58,19 @@ sitemap: false
 	height: 500px;
 	width: 500px;
 	position: relative;
-	left: 650px;
+	left: 575px;
 	top: 120px;
 	font-family: 'Arvo', serif;
 }
 
 .profile {
 	border-style: solid;
-	height: 606px;
-	width: 545px;
+	height: 546px;
+	width: 490px;
 	position: absolute;
 	left: 80px;
 }
-.project1 {
+#project1 {
 	height: 155px;
 	width: 300px;
 	position: absolute;
@@ -78,24 +78,18 @@ sitemap: false
 	border: 2px solid;
 }
 
-.project2 {
+#project2 {
 	height: 155px;
 	width: 300px;
 	position: static;
 	border: 2px solid;
 }
 
-.project1:hover {
+.project:hover {
 	zoom: 1;
   filter: alpha(opacity=45);
   opacity: 0.45;
   transition: opacity .1s ease-in-out;
 }
 
-.project2:hover {
-	zoom: 1;
-  filter: alpha(opacity=45);
-  opacity: 0.45;
-  transition: opacity .1s ease-in-out;
-}
 

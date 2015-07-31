@@ -1,6 +1,8 @@
 ---
 layout: archive
-permalink: /qgec/
+permalink: /Projects/qgec/
 title: "Queen's Global Energy Conference"
 ---
+
+
 hello world

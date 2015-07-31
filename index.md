@@ -11,7 +11,7 @@ title: ""
 </div><!-- /.tiles -->
 
 <div class='profile'>
-<img src="images/profile.jpg" style="width:450 px;height:600px;">
+<img src="images/profile.jpg" style="width:420 px;height:540px;">
 </div>
 
 <div class = 'bio'>

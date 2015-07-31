@@ -1,6 +1,7 @@
 ---
 layout: archive
-permalink: /MyWebsite/
+permalink: /Projects/MyWebsite/
 title: "Jashan Sudan's Website"
 ---
+
 hello world

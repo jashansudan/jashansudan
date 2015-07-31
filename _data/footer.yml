@@ -1,4 +1,12 @@
 # Footer navigation links
 
-- title:
-  url:
+
+- title: Projects
+  url: /Projects/
+  excerpt:
+  image:
+
+- title: Résumé
+  url: /Résumé.pdf
+  excerpt:
+  image:
