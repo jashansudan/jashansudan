@@ -73,8 +73,7 @@ sitemap: false
 #project1 {
 	height: 155px;
 	width: 300px;
-	position: relative;
-	left: 100px;
+	position: static;
 	border: 2px solid;
 }
 
@@ -87,9 +86,9 @@ sitemap: false
 
 .project:hover {
 	zoom: 1;
-  filter: alpha(opacity=45);
-  opacity: 0.45;
-  transition: opacity .1s ease-in-out;
+	filter: alpha(opacity=45);
+	opacity: 0.45;
+	transition: opacity .1s ease-in-out;
 }
 
 
