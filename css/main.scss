@@ -81,7 +81,8 @@ sitemap: false
 	width: 300px;
 	position: static;
 	border: 2px solid;
-	display: inline-block;
+	display: inline;
+	float: left;
 	margin-left: 1em;
 	margin-right: 1em;
 	margin-top: 4em;
