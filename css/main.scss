@@ -69,7 +69,7 @@ sitemap: false
 	border-style: solid;
 	height: 546px;
 	width: 490px;
-	position: static;
+	position: fixed;
 	display: inline;
 	float: left;
 }
@@ -78,7 +78,7 @@ sitemap: false
 #project2 {
 	height: 155px;
 	width: 300px;
-	position: static;
+	position: fixed;
 	border: 2px solid;
 	display: inline; 
 	float: left;
