@@ -59,9 +59,8 @@ sitemap: false
 	width: 500px;
 	position: relative;
 	font-family: 'Arvo', serif;
-	display: inline;
-	float: left;
-	margin: 2em;
+	display: inline-block;
+	margin: 1em;
 }
 
 .profile {
@@ -69,9 +68,8 @@ sitemap: false
 	height: 546px;
 	width: 490px;
 	position: static;
-	display: inline;
-	float: left;
-	margin: 2em;
+	display: inline-block;
+	margin: 1em;
 }
 
 
@@ -80,8 +78,7 @@ sitemap: false
 	width: 300px;
 	position: static;
 	border: 2px solid;
-	display: inline; 
-	float: left;
+	display: inline-block;
 	margin: 1em;
 }
 
@@ -90,8 +87,7 @@ sitemap: false
 	width: 300px;
 	position: relative;
 	border: 2px solid;
-	display: inline;
-	float: left;
+	display: inline-block;
 	margin: 1em;
 }
 
