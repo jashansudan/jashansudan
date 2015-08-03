@@ -70,14 +70,7 @@ sitemap: false
 	position: absolute;
 	left: 5em;
 }
-#project1 {
-	height: 155px;
-	width: 300px;
-	position: relative;
-	border: 2px solid;
-	display: inline;
-	float: left;
-}
+
 
 #project2 {
 	height: 155px;
@@ -85,6 +78,16 @@ sitemap: false
 	position: static;
 	border: 2px solid;
 	display: inline; 
+	float: left;
+}
+
+#project1 {
+	height: 155px;
+	width: 300px;
+	position: relative;
+	left: 100px;
+	border: 2px solid;
+	display: inline;
 	float: left;
 }
 
