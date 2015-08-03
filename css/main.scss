@@ -61,14 +61,18 @@ sitemap: false
 	left: 37em;
 	top: 6em;
 	font-family: 'Arvo', serif;
+	display: inline;
+	float: left;
 }
 
 .profile {
 	border-style: solid;
 	height: 546px;
 	width: 490px;
-	position: absolute;
+	position: static;
 	left: 5em;
+	display: inline;
+	float: left;
 }
 
 
