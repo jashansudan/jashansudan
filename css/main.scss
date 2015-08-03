@@ -58,8 +58,7 @@ sitemap: false
 	height: 500px;
 	width: 500px;
 	position: relative;
-	left: 7em;
-	top: 3em;
+	margin: 7em;
 	font-family: 'Arvo', serif;
 	display: inline;
 	float: left;
@@ -88,10 +87,10 @@ sitemap: false
 	height: 155px;
 	width: 300px;
 	position: relative;
-	left: 100px;
 	border: 2px solid;
 	display: inline;
 	float: left;
+	margin: 3em;
 }
 
 .project:hover {
@@ -100,6 +99,7 @@ sitemap: false
 	opacity: 0.45;
 	transition: opacity .1s ease-in-out;
 }
+
 .container {
 	position: relative;
 }
