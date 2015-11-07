@@ -5,7 +5,7 @@ title: "Queen's Global Energy Conference"
 ---
 
 
-<h2>Hi! This Project can be viewed <a href = "qgec.ca"> here </a></h2>
+<h2>Hi! This Project can be viewed <a class = "qgeclink" href = "http://www.qgec.ca"><strong> here </strong></a></h2>
 
 <p>This is the qgec.ca website built for Queen's Global Energy Conference. I made this website to help attract sponsors, speakers and delegates for the 2016 Global Energy Conference held by Queen's University. Another inspiration for building this website was to get myself more familiar with web devlopment and working with different frameworks.</p>
 

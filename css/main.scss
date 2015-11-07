@@ -108,4 +108,13 @@ sitemap: false
 	position: relative;
 }
 
+.qgeclink {
+	color: blue;
+	text-decoration: underline;
+}
+
+.qgeclink.specialeffects:hover {
+	color: red;
+}
+
 
