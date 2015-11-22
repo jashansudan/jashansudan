@@ -4,7 +4,7 @@ permalink: /
 title: ""
 ---
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+
 
 <div class="tiles">
 {% for post in site.posts %}
@@ -32,8 +32,6 @@ title: ""
 		Anyways, thank you for stopping by my site, take a look around and throw me
 		some feedback on how I could improve anything.
 		</p>
-
-		<p>Envelope icon: <span class="glyphicon glyphicon-envelope"></span></p>
 
 		<p class = "signature">
 		<b>      -Jashandeep Sudan</b>
