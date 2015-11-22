@@ -4,6 +4,8 @@ permalink: /
 title: ""
 ---
 
+<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+
 <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
@@ -30,6 +32,8 @@ title: ""
 		Anyways, thank you for stopping by my site, take a look around and throw me
 		some feedback on how I could improve anything.
 		</p>
+
+		<p>Envelope icon: <span class="glyphicon glyphicon-envelope"></span></p>
 
 		<p class = "signature">
 		<b>      -Jashandeep Sudan</b>
