@@ -36,5 +36,16 @@ title: ""
 		<p class = "signature">
 		<b>      -Jashandeep Sudan</b>
 		</p>
+
+		<p class= "text-center">
+			If you would like to contact me, you can reach me by,
+		</p>
+
+		<p class= "text-center">
+			<img src="images/github.png" style="width:70 px;height:50px;">
+			<img src="images/linkedin.svg" style="width:70 px;height:50px;">
+			<img src="images/email.png" style="width:70 px;height:50px;">
+		</p>
+
 	</div>
 </div>
