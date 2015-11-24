@@ -54,7 +54,6 @@ sitemap: false
 @import "layout";
 @import url(http://fonts.googleapis.com/css?family=EB+Garamond);
 html{font-family: Garamond, EB Garamond, Georgia, serif;}
-@import url('https://netdna.bootstrapcdn.com/font-awesome/2.0/css/font-awesome.css');
 
 .bio {
 	height: 500px;
@@ -146,18 +145,9 @@ h3 {
 	text-center;
 }
 
-.hype.icons img{
-    -webkit-transition: all 1s ease; /* Safari and Chrome */
-    -moz-transition: all 1s ease; /* Firefox */
-    -ms-transition: all 1s ease; /* IE 9 */
-    -o-transition: all 1s ease; /* Opera */
-    transition: all 1s ease;
-}
-
-.hype.icons:hover img{
-    -webkit-transform:scale(1.25); /* Safari and Chrome */
-    -moz-transform:scale(1.25); /* Firefox */
-    -ms-transform:scale(1.25); /* IE 9 */
-    -o-transform:scale(1.25); /* Opera */
-     transform:scale(1.25);
+.inside:hover {
+	zoom: 1;
+	filter: alpha(opacity=45);
+	opacity: 0.45;
+	transition: opacity .1s ease-in-out;
 }
