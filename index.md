@@ -43,13 +43,13 @@ title: ""
 
 		<p class= "text-center">
 			<div class = "icons special" style="width:70 px;height:50px;">
-			<img src="images/github.png">
+			<img class = "inside"  src="images/github.png">
 			</div>
 			<div class = "icons" style="width:70 px;height:50px;">
-			<img src="images/linkedin.svg">
+			<img class = "inside" src="images/linkedin.svg">
 			</div>
 			<div class = "icons" style="width:70 px;height:50px;">
-			<img src="images/email.png" >
+			<img class = "inside" src="images/email.png" >
 			</div>
 		</p>
 
