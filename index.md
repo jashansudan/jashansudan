@@ -42,13 +42,13 @@ title: ""
 		</p>
 
 		<p class = "hype">
-			<div class = "icons special" style="width:70 px;height:50px;">
+			<div class = "icons special">
 			<img class = "inside"  src="images/github.png">
 			</div>
-			<div class = "icons" style="width:70 px;height:50px;">
+			<div class = "icons">
 			<img class = "inside" src="images/linkedin.svg">
 			</div>
-			<div class = "icons" style="width:70 px;height:50px;">
+			<div class = "icons">
 			<img class = "inside" src="images/email.png" >
 			</div>
 		</p>
