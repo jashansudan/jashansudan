@@ -41,7 +41,7 @@ title: ""
 			If you want to contact me, or see some of my work, look below!
 		</p>
 
-		<p class = "hype">
+		<div class = "hype">
 			<div class = "icons special">
 			<img class = "inside"  src="images/github.png">
 			</div>
@@ -51,7 +51,7 @@ title: ""
 			<div class = "icons">
 			<img class = "inside" src="images/email.png" >
 			</div>
-		</p>
+		</div>
 
 	</div>
 </div>
