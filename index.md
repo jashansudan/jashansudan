@@ -43,9 +43,9 @@ title: ""
 
 		<div class = "hype">
 			<div class = "icons special">
-				<a>
+				<a  class = "inside" >
 			<img src="images/github.png">
-				</a class = "inside" >
+				</a>
 			</div>
 			<div class = "icons">
 				<a class = "inside" >
