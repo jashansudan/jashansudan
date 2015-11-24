@@ -38,13 +38,13 @@ title: ""
 		</p>
 
 		<p class= "text-center">
-			If you would like to contact me, you can reach me by,
+			If you want to contact me, or see some of my work, look below!
 		</p>
 
 		<p class= "text-center">
-			<img src="images/github.png" style="width:70 px;height:50px;">
-			<img src="images/linkedin.svg" style="width:70 px;height:50px;">
-			<img src="images/email.png" style="width:70 px;height:50px;">
+			<img class = "icons special" src="images/github.png" style="width:70 px;height:50px;">
+			<img class = "icons" src="images/linkedin.svg" style="width:70 px;height:50px;">
+			<img class = "icons" src="images/email.png" style="width:70 px;height:50px;">
 		</p>
 
 	</div>
