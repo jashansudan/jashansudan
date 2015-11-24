@@ -43,13 +43,19 @@ title: ""
 
 		<div class = "hype">
 			<div class = "icons special">
-			<img class = "inside"  src="images/github.png">
+				<a>
+			<img src="images/github.png">
+				</a class = "inside" >
 			</div>
 			<div class = "icons">
-			<img class = "inside" src="images/linkedin.svg">
+				<a class = "inside" >
+			<img src="images/linkedin.svg">
+				</a>
 			</div>
 			<div class = "icons">
-			<img class = "inside" src="images/email.png" >
+				<a class = "inside" >
+			<img src="images/email.png" >
+				</a>
 			</div>
 		</div>
 
