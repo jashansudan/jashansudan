@@ -37,14 +37,20 @@ title: ""
 		<b>      -Jashandeep Sudan</b>
 		</p>
 
-		<p class= "text-center">
+		<p class= "contact">
 			If you want to contact me, or see some of my work, look below!
 		</p>
 
 		<p class= "text-center">
-			<img class = "icons special" src="images/github.png" style="width:70 px;height:50px;">
-			<img class = "icons" src="images/linkedin.svg" style="width:70 px;height:50px;">
-			<img class = "icons" src="images/email.png" style="width:70 px;height:50px;">
+			<div class = "icons special" style="width:70 px;height:50px;">
+			<img src="images/github.png">
+			</div>
+			<div class = "icons" style="width:70 px;height:50px;">
+			<img src="images/linkedin.svg">
+			</div>
+			<div class = "icons" style="width:70 px;height:50px;">
+			<img src="images/email.png" >
+			</div>
 		</p>
 
 	</div>
