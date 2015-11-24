@@ -41,7 +41,7 @@ title: ""
 			If you want to contact me, or see some of my work, look below!
 		</p>
 
-		<p class= "text-center">
+		<p class = "hype">
 			<div class = "icons special" style="width:70 px;height:50px;">
 			<img class = "inside"  src="images/github.png">
 			</div>
