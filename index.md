@@ -43,17 +43,17 @@ title: ""
 
 		<div class = "hype">
 			<div class = "icons special">
-				<a  class = "inside" >
+				<a  class = "inside" href = "https://github.com/jashansudan">
 			<img src="images/github.png">
 				</a>
 			</div>
 			<div class = "icons">
-				<a class = "inside" >
+				<a class = "inside" href = "https://ca.linkedin.com/in/jashansudan">
 			<img src="images/linkedin.svg">
 				</a>
 			</div>
 			<div class = "icons">
-				<a class = "inside" >
+				<a class = "inside" href="mailto:jashansudan@gmail.com">
 			<img src="images/email.png" >
 				</a>
 			</div>
