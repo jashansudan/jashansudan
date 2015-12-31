@@ -14,7 +14,7 @@ title: ""
 
 <div class = 'container'>
 	<div class='profile'>
-		<img src="images/profile.jpg" style="width:420 px;height:540px;">
+		<img src="images/profile.png" style="width:420 px;height:540px;">
 	</div>
 
 	<div class = 'bio'>
