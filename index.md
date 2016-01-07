@@ -6,7 +6,7 @@ title: ""
 
 <head>
 	<script src = "/pace.min.js"> </script>
-	<link href= "minimalLoad.css" rel = "stylesheet" / >
+	<link href= "/minimalLoad.css" rel = "stylesheet" />
 
 </head>
 
