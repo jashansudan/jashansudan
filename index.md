@@ -4,7 +4,11 @@ permalink: /
 title: ""
 ---
 
+<head>
+	<script src = "/pace.min.js"> </script>
+	<link href= "minimalLoad.css" rel = "stylesheet" / >
 
+</head>
 
 <div class="tiles">
 {% for post in site.posts %}
