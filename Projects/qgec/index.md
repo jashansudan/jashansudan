@@ -8,9 +8,9 @@ title: "Queen's Global Energy Conference"
 <h3>Hi! This Project can be viewed <a class = "qgeclink" href = "http://www.qgec.ca"><strong> here! </strong></a></h3>
 
 
-<div class='project' id='project2'>
+<div class='project3' id='project3'>
 		<a>
-			<img src="images/project2.jpg" style="width:900px;height:450px;">
+			<img src="../images/project2.jpg" style="width:900px;height:450px;">
 		</a>
 </div>
 
