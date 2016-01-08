@@ -64,3 +64,12 @@ title: ""
 
 	</div>
 </div>
+
+<script>
+paceOptions = {
+  // Configuration goes here. Example:
+  elements: false,
+  restartOnPushState: false,
+  restartOnRequestAfter: false
+}
+</script>
