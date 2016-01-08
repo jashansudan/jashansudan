@@ -9,6 +9,16 @@ title: ""
 
 </head>
 
+
+<script>
+paceOptions = {
+  // Configuration goes here. Example:
+  elements: false,
+  restartOnPushState: false,
+  restartOnRequestAfter: false
+}
+</script>
+
 <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
@@ -64,12 +74,3 @@ title: ""
 
 	</div>
 </div>
-
-<script>
-paceOptions = {
-  // Configuration goes here. Example:
-  elements: false,
-  restartOnPushState: false,
-  restartOnRequestAfter: false
-}
-</script>
