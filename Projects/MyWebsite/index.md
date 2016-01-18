@@ -3,8 +3,15 @@ layout: archive
 permalink: /Projects/MyWebsite/
 title: "Mapd"
 ---
+<div class='project3' id='project3'>
+		<a>
+			<img src="../images/project1.jpg" style="width:900px;height:450px;">
+		</a>
+</div>
 
-<h3> Hi, this website is the Project!</h3>
+<p> Mapd is a google chrome extension created to make searching of addresses easier and faster. Version 1.0 (current), takes a user inputted address and opens a google maps of the address in a new tab. Mapd is still being worked on to create a nicer UI while adding more functionality. Mapd was created using JavaScript, HTML and JSON. 
+</p>
 
-
-<p>This project was my own Personal website. I built this out of pure interest in web development while also wanting to have an online portfolio that others could view. This website gets updated on a weekly/monthly basis, as time permits and as new content is due to be added. Overall the website is a projection of my personality and accomplishments in the past few years and I hope you enjoy it.</p>
+<p>
+The source code can be viewed<a class = "qgeclink" href = "https://github.com/jashansudan/Mapd"><strong> here! </strong></a></h3>
+</p>
