@@ -15,5 +15,6 @@ title: "Queen's Global Energy Conference"
 
 <p>
 This Project can be viewed <a class = "qgeclink" href = "http://www.qgec.ca"><strong> here! </strong></a>
+Meanwhile, the source code can be viewed over <a class = "qgeclink" href = "https://github.com/jashansudan/qgec"><strong> here! </strong></a>
 	</p>
 

@@ -13,5 +13,5 @@ title: "Mapd"
 </p>
 
 <p>
-The source code can be viewed<a class = "qgeclink" href = "https://github.com/jashansudan/Mapd"><strong> here! </strong></a></h3>
+The source code can be viewed<a class = "qgeclink" href = "https://github.com/jashansudan/Mapd"><strong> here! </strong></a>
 </p>
