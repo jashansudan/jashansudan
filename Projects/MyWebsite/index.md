@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /Projects/MyWebsite/
-title: "Jashan Sudan's Website"
+title: "Mapd"
 ---
 
 <h3> Hi, this website is the Project!</h3>
