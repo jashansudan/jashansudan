@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Hello World!"
+title: ""
 ---
 <head>
 	<script src = "../pace.min.js"> </script>
