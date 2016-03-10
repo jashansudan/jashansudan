@@ -12,7 +12,7 @@ title: ""
 
 <script>
 paceOptions = {
-  // Configuration goes here. Example:
+  // Configuration goes here.
   elements: false,
   restartOnPushState: false,
   restartOnRequestAfter: false
