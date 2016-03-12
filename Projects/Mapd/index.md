@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Projects/MyWebsite/
+permalink: /Projects/Mapd/
 title: "Mapd"
 ---
 <div class='project3' id='project3'>
