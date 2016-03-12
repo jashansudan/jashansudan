@@ -12,7 +12,7 @@ title: "My Recent Projects"
 	</div>
 
 	<div class='project' id='project1'>
-		<a href = "/Projects/MyWebsite/">
+		<a href = "/Projects/Mapd/">
 			<img src="images/project1.jpg" style="width:300 px;height:150px;">
 		</a>
 	</div>
