@@ -6,7 +6,7 @@ bio: Hello! My name is Jashan Sudan and I am a 4th year Bachelor of Computing Ca
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: /assets/images/jashansudan.jpg
+picture: assets/images/jashansudan.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
