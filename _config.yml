@@ -1,36 +1,67 @@
-# Site wide configuration
+# main text of home
+name: Jashan Sudan
+bio: Hello! My name is Jashan Sudan and I am a 4th year Bachelor of Computing Candidate at Queen's University. I enjoy solving problems, playing with new technologies and trying new things!
 
-title: Jashan Sudan
-description: "Jashan Sudan's personal website!"
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
-locale: 
-url: 
 
-# Jekyll configuration
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/jashansudan.jpg
 
-sass:
-    sass_dir: _sass
-    style: compressed
-permalink: /:categories/:title/
-kramdown:
-  toc_levels: 1..2
-rouge: pygments
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: true
+resume-external: false
+resume-url: Résumé.pdf
+
+url: https://jashansudan.github.io
+# your url: http://USERNAME.github.io
+
+permalink: /:title/
+
+# To enable google analytics, supply your token below
+# analytics-google: 'UA-MYANALYTICS'
+
+# To enable piwik tracking, supply your url & site ID below
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
+
+
+# google: mygoogle
+# instagram: myinstagram
+# pinterest: mypinterest
+# linkedin: mylinkedin
+# youtube: myyoutube
+# spotify: myspotify
+github: jashansudan
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+linkedin: jashansudan
+# vimeo: myvimeo
+email: jashansudan@gmail.com
+
+
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: normal
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+
+
+# do you want some animations?
+animation: true
+
 gems:
-  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
-
-# Site owner
-owner:
-  name:
-  email:
-  twitter:
-  google:
-    ad-client: 
-    ad-slot: 
-  bio: 
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-disqus-shortname:
-
-
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+jekyll-mentions:
+    base_url: https://github.com
