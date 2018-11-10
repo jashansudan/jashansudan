@@ -1,1 +1,0 @@
-Jashan Sudan's Minimalist Personal Site
