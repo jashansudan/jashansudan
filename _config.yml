@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/files/Jashan_Sudan_Résumé.pdf
+resume-url: assets/files/Jashan_Sudan_Resume.pdf
 
 url: https://jashansudan.github.io
 # your url: http://USERNAME.github.io
